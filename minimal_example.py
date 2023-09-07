@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
 # Structural complexity module 
-import Structural_complexity_opensource as SC
+import SC_opensource as SC
 
 ####################### Example of symmetries #################################
 def symmetry_example():
